@@ -5,3 +5,25 @@ Actual results and expected results
 
 Actual = Expected -- Test case passed 
 Failed
+
+
+
+
+------------------ HTTP(s) Test Script Recorder ---------------
+
+Local proxy using a port 
+
+port for JMeter 
+Port for Browser
+
+8888 port 
+
+8888 ----> 
+
+JMeter 
+Port on browser
+Local Proxy
+
+
+
+
