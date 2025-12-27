@@ -1,0 +1,7 @@
+What are assertions in JMeter?
+
+Verification
+Actual results and expected results
+
+Actual = Expected -- Test case passed 
+Failed
