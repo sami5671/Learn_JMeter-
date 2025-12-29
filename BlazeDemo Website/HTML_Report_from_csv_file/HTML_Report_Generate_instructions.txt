@@ -1,0 +1,13 @@
+----------- This is applicable in powershell or cmd -------------
+ 
+====> 1. To run load test(create file then create HTML report) --> jmeter -n -t [jmx file] -l [results file] -e -o 	 [Path to web report folder] 
+
+====> .\jmeter -n  -t "E:\SQA Hobby Projects\JMeter\Jmeter Learning\BlazeDemo Website\HTML_Report_from_csv_file\SOAP_REST_API.jmx" -l "E:\SQA Hobby Projects\JMeter\Jmeter Learning\BlazeDemo Website\HTML_Report_from_csv_file\result.csv" -e -o "E:\SQA Hobby Projects\JMeter\Jmeter Learning\BlazeDemo Website\HTML_Report_from_csv_file\HTML_Report"
+
+
+====> 2. To create HTML Report from Existing result file or log file --> jmeter -g [results file] -o [Path to web 	 report folder] 
+
+====> .\jmeter -g "E:\SQA Hobby Projects\JMeter\Jmeter Learning\BlazeDemo Website\HTML_Report_from_csv_file\result.csv" -o "E:\SQA Hobby Projects\JMeter\Jmeter Learning\BlazeDemo Website\HTML_Report_from_result_file"
+
+====> 3. To generate html report on GUI Jmeter
+	i. Tools ---> Generate Html report
