@@ -1,0 +1,9 @@
+# JMeter generated Header file
+sec-ch-ua	"Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"
+sec-ch-ua-mobile	?0
+sec-ch-ua-platform	"Windows"
+User-Agent	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+Authorization	Bearer .eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjI3OWI1ZDc3LWZmNzAtNDY3Ni04NjUzLThjNWQ3NDZhMmI1ZCIsInVzZXJuYW1lIjoicnVodWxrdWRkdXMiLCJlbWFpbCI6ImNpc2ludGVybjIwMjRAZ21haWwuY29tIiwicm9sZSI6IlNUVURFTlQiLCJleHAiOjE3NjgyNTc4NjgsImlhdCI6MTc2ODIyOTA2OH0.eDzGJTQ968C89itj2tj-pSfkUnij0VTULshcjgtQ0w4
+X-Institution-ID	
+X-Tenant-Subdomain	diu
+Accept	application/json, text/plain, */*
